@@ -1,4 +1,4 @@
-- name: Albums
+- name: Instagram
   items:
     - url: https://www.example.com
       image: https://picsum.photos/700/400.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
