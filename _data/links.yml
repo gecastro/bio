@@ -1,12 +1,12 @@
 fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
-  - category: Blogs
+  - category: Socials
     items:
-    - title: Example
-      url: https://www.example.com
-      icon: tdesign:activity # Icons are optional
-      tag: Tag
+    - title: Favourite photos
+      url: https://www.instagram.com/gcastro_photo
+    - title: Personal account
+      url: https://www.instagram.com/gecastro78
 
   #   - title: Example 2
   #     url: https://www.example.org
@@ -16,6 +16,7 @@ buttons:
   #   items:
   #   - title: Example 3
   #     url: https://www.example.com
+      # icon: tdesign:activity # Icons are optional
 
   # - category: Works
   #   items:
