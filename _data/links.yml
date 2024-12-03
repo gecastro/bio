@@ -5,10 +5,10 @@ buttons:
     items:
     - title: Favourite photos
       url: https://www.instagram.com/gcastro_photo
-      icon: assets/icons/4202090_instagram_logo_social_social media_icon.png # Icons are optional
+      icon: entypo-social:instagram # Icons are optional
     - title: Personal account
       url: https://www.instagram.com/gecastro78
-      icon: assets/icons/4202090_instagram_logo_social_social media_icon.png # Icons are optional
+      icon: entypo-social:instagram # Icons are optional
 
   #   - title: Example 2
   #     url: https://www.example.org
